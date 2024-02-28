@@ -9,3 +9,6 @@ def replace_word(text: str, replace_from: str, replace_to: str) -> str:
             new_words.append(word)
 
     return ' '.join(new_words)
+
+
+print(replace_word('replace', 'replace', 'htllo'))
