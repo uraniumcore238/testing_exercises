@@ -19,3 +19,4 @@ def test__two_square_equation__no_square_coefficient_and_no():
 
 def test__two_square_equation__descriminant_is_zero():  #
     assert solve_square_equation(2.0, 1.0, 1.0) == (None, None)
+
