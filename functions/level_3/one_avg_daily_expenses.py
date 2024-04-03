@@ -1,7 +1,7 @@
 import collections
 import decimal
-from statistics import mean
 
+from statistics import mean
 from functions.level_3.models import Expense
 
 
